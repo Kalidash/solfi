@@ -1,4 +1,19 @@
 body {
     background-color: #000000;
     color: #ffff00;
+
+    margin-left: 25vw;
+}
+
+h1 {
+    text-shadow: 1px 1px yellowgreen;
+}
+
+p {
+    padding-left: 7%;
+}
+
+em {
+    font-weight: bold;
+    font-size: 110%;
 }
